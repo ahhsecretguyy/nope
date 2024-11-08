@@ -13,9 +13,9 @@ For **Android**:
 Visit [Android Releases](https://github.com/ahhsecretguyy/nope/releases/tag/TheMelonAndroid)
 
 ## How to run it on Termux
-
-1. Download the Android File.
-2. Run the following commands in Termux:
+1. Download termux if you don't have [Click here to Download](https://github.com/termux/termux-app/releases/download/v0.118.1/termux-app_v0.118.1+github-debug_arm64-v8a.apk)
+2. Download the Android File.
+3. Run the following commands in Termux:
 
     ```bash
     termux-setup-storage
