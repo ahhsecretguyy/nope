@@ -28,4 +28,4 @@ Then you're done!
 
 ## Questions?
 
-DM me on Discord: **Aquoupi#0001**
+**Commit a issue!**
